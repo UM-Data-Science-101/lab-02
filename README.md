@@ -1,7 +1,19 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Data Science 101: Lab 02
+This lab is designed to help you get a feel for the basics of Python programming. You will be working with a Jupyter notebook, which is a tool that allows you to write and run Python code in an interactive way. This lab will cover the following topics:
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+- Data types
+- Variables
+- Arithmetic operations
+- Functions
+- Control structures (if-else statements and loops)
+- Lists
+- Copilot
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Getting started
+1. Click on the green "Code" button in the top right corner of this page and select "Open with Codespaces". This will start a new Codespace with this repository loaded.
+2. Once the Codespace is ready, open the `notebooks/lab02_jupyter_python.ipynb` file and follow the instructions in the notebook.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+
+
+
+
